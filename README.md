@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>NAME: Ragul M P</h3>
+<h3>NAME: Ragul M </h3>
 <h3>REG.NO: 212221230080</h3>
 <h3>EX. NO: 02</h3>
 <h3>DATE:08/03/2024</h3>
